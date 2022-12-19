@@ -1,0 +1,1 @@
+a = ("apple")b = ("banna")c = ("carrot")d = ("dragon fruit")print(a, "a for", a, "b for", b, "c for", c, "c for", "c for", d)
