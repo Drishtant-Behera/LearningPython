@@ -1,0 +1,1 @@
+a = 20b = 5addition = a + bsubtraction = a - bprint("adding 5 and 6 =", addition)
