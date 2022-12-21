@@ -1,0 +1,1 @@
+opinion = input("is a tomato an vegetable or a fruit: ")if opinion == "fruit" or "Fruit":    print("I disagree I think it is a vegetable")else:    print("I agree I think it is a vegetable too.")# you can also use match case but that is used for nested conditional statements I use if and else here
